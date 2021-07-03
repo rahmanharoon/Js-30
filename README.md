@@ -1,7 +1,3 @@
-Make your own music using drums
+30 Days of Vanilla js challenge.
 
-You can create your own music here..Try it out
-
-https://rahmanharoon.github.io/drum-player/
-
-Check this out
+[Challenge yourself from here](https://javascript30.com/)
